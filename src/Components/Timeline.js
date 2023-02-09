@@ -38,7 +38,14 @@ function Timeline() {
       <div className="timeline-item">
         <div className="timeline-year">Apr 2022</div>
         <div className="timeline-content">
-        Built a Bambara dictionary with English/French translations called <a href='http://mande.media/letter/a' target="_blank">Mande.Media</a>
+        Built a Bambara dictionary with English/French translations called <a href='http://mande.media/letter/a' target="_blank">Mande.Media</a> (Built with React/Node/PostgreSQL)
+        </div>
+      </div>
+      <div className="vl"></div>
+      <div className="timeline-item">
+        <div className="timeline-year">Feb 2023</div>
+        <div className="timeline-content">
+        Deployed <a href='https://thesinifoundation.org/' target="_blank">The Sini Foundation Website</a>
         </div>
       </div>
     </div>
